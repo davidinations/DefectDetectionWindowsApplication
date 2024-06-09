@@ -1,0 +1,2 @@
+There is error after convert python code to exe using pyinstaller
+To Fix It You Need Add Ultralytics/cfg/default.yaml _internal to make exe working
